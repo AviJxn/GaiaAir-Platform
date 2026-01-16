@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Research_Preview-blue)]()
-[![Grant](https://img.shields.io/badge/Supported%20By-Cohere%20Catalyst%20Grant-610661)]()
+[![Grant](https://img.shields.io/badge/Supported%20By-Cohere%20Catalyst%20Grant-610661)](https://cohere.com)
 
 > **"Treating the Earth like a living organism. Monitoring, diagnosing, and healing it with AI."**
 
