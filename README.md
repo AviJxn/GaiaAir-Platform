@@ -27,7 +27,7 @@ The system operates on a "Neural-Symbolic" pipeline:
 - **Infrastructure:** Google Earth Engine API.
 
 ## Contributing
-This project is currently in the **Grant Application / Research Phase**. We welcome contributions from data scientists and climate researchers. Please open an issue to discuss potential collaborations.
+This project is currently in the **Research Phase**. We welcome contributions from data scientists and climate researchers. Please open an issue to discuss potential collaborations.
 
 ---
 *Built with ❤️ for the Planet.*
