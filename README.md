@@ -17,9 +17,9 @@ The system operates on a "Neural-Symbolic" pipeline:
 3.  **Retrieval Layer (Cohere Embed + Rerank):** Contextualizes alerts using a vector database of UN Climate Reports and agricultural best practices.
 
 ## Key Features (Planned)
-- [ ] **FarmVital:** Multilingual SMS/WhatsApp advisory for farmers based on micro-climate data.
-- [ ] **GaiaSense:** Real-time anomaly detection for climate events.
-- [ ] **RAG-based Policy Engine:** Searchable climate intelligence for policymakers.
+- **FarmVital:** Multilingual SMS/WhatsApp advisory for farmers based on micro-climate data.
+- **GaiaSense:** Real-time anomaly detection for climate events.
+- **RAG-based Policy Engine:** Searchable climate intelligence for policymakers.
 
 ## Tech Stack
 - **AI/LLM:** Cohere Command R+, Cohere Embed v3.0, LangChain.
